@@ -1,0 +1,17 @@
+#un archivo
+hola.txt 
+#una carpeta
+tres
+#todos los archivos de la extension 
+*.exe
+#ignora todos pero excepto este
+#!hola2.exe
+#un archivo dentro de una carpeta pero no las subcarpetas
+uno/*.txt 
+uno/*.html
+# un archivo dentro de una carpeta y todas las subcarpetas
+uno/**/*.txt
+#una subcarpeta
+uno/dos
+uno
+git-main
