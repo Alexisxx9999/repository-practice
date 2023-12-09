@@ -1,0 +1,24 @@
+*   690842a resolviendo el conflicto de utilizar ammend habied
+|\  
+| * d60d8d9 agregando las estaciones del año
+* | d39f828 agregando estaciones del año con fecha de inicio�
+|/  
+*   370e7d2 resolviendo conflictos entre el fusionado de ramas , de forma manual
+|\  
+| * 4023ee9 agregando algunas cualidades a index en la rama html
+| * 131ca83 restaurando todo en la rama html
+* | 3be03e5 agregando algunas cualidades a index en la rama main
+* | a90aef0 restauracion de main completada para la siguiente prueba
+* | b22f531 modificaciones a los archivos por problemas
+|/  
+*   5cb0b37 Merge branch 'js'
+|\  
+| * 83fef50 creando index JS
+* | 8ed47e6 creando style css en CSS
+* | b6a02ee creando index html en la rama html
+|/  
+* 5d49a68 ignorando archivos en el gitignore con sus posibilidades
+* 5a79c8a 4to commit License 💠👌
+* ca4fa35 tercer commit y un cambio en el m �
+* 113cf89 segundo commit agregacion de un mensaje
+* 6a5a20c primer comit creacion de 2 archivos 😈🥰💠

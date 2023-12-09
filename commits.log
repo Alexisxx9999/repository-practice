@@ -1,0 +1,112 @@
+commit 690842ae8f98d25f0e2c54be663b2e64d4c645cc
+Merge: d39f828 d60d8d9
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Fri Dec 8 12:09:23 2023 -0500
+
+    resolviendo el conflicto de utilizar ammend habied
+
+commit d39f828bd54197e09a40924e904329dbe620e499
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Fri Dec 8 11:44:24 2023 -0500
+
+    agregando estaciones del año con fecha de inicio�
+
+commit d60d8d9053a119299cf9b354cd87abd0a4857ee9
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Fri Dec 8 11:44:24 2023 -0500
+
+    agregando las estaciones del año
+
+commit 370e7d28a66d9e853c7ce0429c7928d52ca5d928
+Merge: 3be03e5 4023ee9
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Fri Dec 8 11:34:36 2023 -0500
+
+    resolviendo conflictos entre el fusionado de ramas , de forma manual
+
+commit 3be03e55a7599a21e782777c93879b077897ccac
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Fri Dec 8 11:21:34 2023 -0500
+
+    agregando algunas cualidades a index en la rama main
+
+commit 4023ee97cab5a897edc07f08bde9d216ec044c32
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Fri Dec 8 11:19:57 2023 -0500
+
+    agregando algunas cualidades a index en la rama html
+
+commit a90aef071fc0d9556cca64b70fc82293e13c643e
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Fri Dec 8 11:13:25 2023 -0500
+
+    restauracion de main completada para la siguiente prueba
+
+commit 131ca83290a6986c4513768e61dc0b36b5bffc1f
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Fri Dec 8 11:09:18 2023 -0500
+
+    restaurando todo en la rama html
+
+commit b22f531fb657f3e8a5145cba6d33d13203eaf517
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Fri Dec 8 11:05:41 2023 -0500
+
+    modificaciones a los archivos por problemas
+
+commit 5cb0b374deaaa960c0bc34f74ca68910b19e4a0a
+Merge: 8ed47e6 83fef50
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Thu Dec 7 16:58:22 2023 -0500
+
+    Merge branch 'js'
+
+commit 83fef50312f041abe4198428247a94bfe79c54da
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Thu Dec 7 16:51:45 2023 -0500
+
+    creando index JS
+
+commit 8ed47e6219859b100620aaa8737ff201d0f86e04
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Thu Dec 7 16:46:11 2023 -0500
+
+    creando style css en CSS
+
+commit b6a02ee3f7f9d9bac63a85804236f9598b2b06e8
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Thu Dec 7 16:39:49 2023 -0500
+
+    creando index html en la rama html
+
+commit 5d49a680f5f83cdd7f5422f2850e178bfedde001
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Thu Dec 7 16:09:56 2023 -0500
+
+    ignorando archivos en el gitignore con sus posibilidades
+
+commit 5a79c8a820d832e9ca38c5f8ad08b8cee5d0c234
+Author: Alexisxx9999 <152814633+Alexisxx9999@users.noreply.github.com>
+Date:   Tue Dec 5 19:11:07 2023 -0500
+
+    4to commit License 💠👌
+    
+    creación de un archivo de licencia de MIT
+
+commit ca4fa353e8ba0ffa325275f56033bcb3c39c3ca7
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Tue Dec 5 19:00:27 2023 -0500
+
+    tercer commit y un cambio en el m �
+
+commit 113cf89dabd4f5a23e5a0cb2e45be062ecabf9df
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Tue Dec 5 18:32:43 2023 -0500
+
+    segundo commit agregacion de un mensaje
+
+commit 6a5a20cff2d833ca81c15e8ae45a8009a92e3640
+Author: Alexis Velez <aldavequfalcon9999@gmail.com>
+Date:   Tue Dec 5 18:29:19 2023 -0500
+
+    primer comit creacion de 2 archivos 😈🥰💠
