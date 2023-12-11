@@ -1,4 +1,16 @@
-html{
+html {
   background-color: black;
   color: skyblue;
+  margin: auto;
+  max-width: 1000px;
+  width: 90%;
+}
+body {
+  text-align: center;
+}
+ul li {
+  list-style: none;
+}
+h1 {
+  text-transform: capitalize;
 }
